@@ -12,7 +12,7 @@ public class GitDemo {
 		String capitalizedString = "";
 
 		for (String s1 : words) {
-			// Capitalize first letter 
+			// Capitalize first ler 
 			String firstLetter = s1.substring(0, 1);
 			// Get remaining letter
 			String remainingLetters = s1.substring(1);
