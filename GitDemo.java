@@ -5,7 +5,7 @@ public class GitDemo {
 	//usinf for each loop
 	public static void CapitalizeFirstLetterUsingForLoop() {
 		// TODO Auto-generated method stub
-		String str = "this is java code to capitalized first letter";
+		String str = "this is java code to capitalized first letter ";
 		// String str1=str.substring(0,1).toUpperCase()+str.substring(1);
 
 		String words[] = str.split("\\s");
